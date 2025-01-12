@@ -1,0 +1,2 @@
+# spartaqube-version
+SpartaQube versioning
