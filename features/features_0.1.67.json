@@ -1,0 +1,8 @@
+{
+    "version": "0.1.67",
+    "features": [
+        "Introducing DataFrames functionalities",
+        "Fixing Docker entrypoint port for asgi connection",
+        "Marginal improvements of the DataFrame GUI getting started"
+    ]
+}
