@@ -1,0 +1,6 @@
+{
+    "version": "0.1.68",
+    "features": [
+        "This release resolves an issue that previously prevented certain graphs and visual plots from being accessible"
+    ]
+}
